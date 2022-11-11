@@ -1,0 +1,19 @@
+.swaap_main{
+    padding: 40px 0px;
+}
+
+.land{
+    border-radius: 20px;
+}
+.land_txt{
+    font-weight: 300;
+    line-height: 1.7em;
+    padding-top: 10px;
+    font-size: 16px;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    color: #fdfdfd !important;
+}
+.heading{
+    font-size: 40px;
+}
